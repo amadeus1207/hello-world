@@ -1,2 +1,2 @@
 # hello-world
-mi primer repositorio
+Esta es una prueba inicial de min repositorio en git
