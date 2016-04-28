@@ -36,6 +36,8 @@ void reshape(int w, int h)
   
 }
 
+//comentario alla
+
 void cubo (void) {
   
   // Primera cara, se identica por multiples colores
