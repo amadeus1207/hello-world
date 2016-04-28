@@ -61,6 +61,8 @@ void cubo (void) {
     glVertex3f(-0.3,  0.3, 0.3 );
     glVertex3f(-0.3, -0.3, 0.3 );
     glEnd();
+    
+    //cubo
 
     // LADO DERECHO: lado verde
     glBegin(GL_POLYGON);
