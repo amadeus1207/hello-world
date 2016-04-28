@@ -17,6 +17,7 @@ GLint alto=600;
 
 int perspectiva = 0;
 
+//comentario aqui
 void reshape(int w, int h)
 {
   glViewport(0, 0, w, h);
